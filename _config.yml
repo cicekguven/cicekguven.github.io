@@ -1,8 +1,12 @@
 theme: jekyll-theme-cayman
+custom_css:
+  - /assets/css/custom.css
 title: Çiçek Güven 
 github:
   is_project_page: false
 description: Assistant Professor, Department of Cognitive Science and Artificial Intelligence, Tilburg University
+
+
 
 
 
