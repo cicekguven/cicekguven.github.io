@@ -1,0 +1,30 @@
+/* Change the background color */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Change the main header color */
+.site-title {
+    color: #333333;
+}
+
+/* Change the link color */
+a {
+    color: #007acc;
+}
+
+/* Change the navigation bar background color */
+.site-nav {
+    background-color: #004466;
+}
+
+/* Change the navigation link color */
+.site-nav a {
+    color: #ffffff;
+}
+
+/* Change the footer background and text color */
+.site-footer {
+    background-color: #333333;
+    color: #ffffff;
+}
