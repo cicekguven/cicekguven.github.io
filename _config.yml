@@ -5,6 +5,16 @@ title: Çiçek Güven
 github:
   is_project_page: false
 description: Assistant Professor, Department of Cognitive Science and Artificial Intelligence, Tilburg University
+baseurl: ""
+url: "https://cicekguven.github.io"  # Update this with your site URL
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /projects/
+ 
 
 
 
