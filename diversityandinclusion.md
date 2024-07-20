@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
-permalink: /contact/
+title: diversity and inclusion
+permalink: /diversityandinclusion/
 
 ---
 
@@ -11,7 +11,7 @@ permalink: /contact/
 
 Diversity, equity and inclusion are themes that I feel very strongly about in life, education and in the working environment. That is why I take roles to facilitate these.
 
-I am representing my department in the IPN EDI wortking group.
+I am representing my department in the IPN EDI working group.
 I am in the diversity and Inclusion committee of our school, TSHD.
 
 
