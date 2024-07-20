@@ -13,3 +13,5 @@ or explainability purposes and making predictions on graph structural data. Brai
 between the phenomena that are captured in edges- relationships, communication, similarity, exchange of information- and their impact on the structure of the network and formation of
 motifs and their possible impact on learning. Network analysis and learning on graph structural data are complementary to each other and a research direction that links these together is 
 explainability of learning, in answering questions like what structural properties of the graph leads to certain prediction outcomes?
+
+For  my university profile page, please see [here](https://www.tilburguniversity.edu/staff/c-guven).
