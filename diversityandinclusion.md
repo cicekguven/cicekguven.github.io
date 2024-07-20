@@ -8,11 +8,11 @@ permalink: /diversityandinclusion/
 
 ## Diversity and Inclusion
 
-Diversity, equity and inclusion are themes that I feel very strongly about in life, education and in the working environment. That is why I am involved in several initiatives about that.
-I am representing my department in the [IPN EDI working group](https://ict-research.nl/edi-working-group/).
-I am in the diversity and Inclusion committee of our school, [TSHD](https://www.tilburguniversity.edu/nl/over/schools/tshd).
+Diversity, equity and inclusion are themes that I feel very strongly about in life, education and in the working environment. This commitment drives my involvement in various initiatives aimed at promoting these principles.
 
-I was in the scientific committee of Hack4her event [2024 edition](https://hack4her.github.io/2024_event.html), where I gave a talk titled "Using AI to support Accessibility for All". With this talk, I gave examples of how we center our research around inclusivity, accessibility, and societal problems, both in the problems we focus on and in the methods we use and frameworks we develop.
 
-Something I am thinking active about ism what I call informed educational innovation; how to keep educational programs up to date,  but also the needs of the students, 
-in terms of inclusivity for example in assesment or in the classroom. 
+I represent our department in the [IPN EDI working group](https://ict-research.nl/edi-working-group/), where we work to advance equity and inclusion within the academic community. Additionally, I serve on the Diversity and Inclusion Committee at the Tilburg School of Humanities and Digital Sciences [TSHD](https://www.tilburguniversity.edu/nl/over/schools/tshd), focusing on fostering a more inclusive environment within our school.
+
+I was in the scientific committee of Hack4her event [2024 edition](https://hack4her.github.io/2024_event.html), where I gave a talk titled "Using AI to support Accessibility for All".In this presentation, I highlighted how our research prioritizes inclusivity and accessibility, addressing societal challenges through our chosen research problems, methodologies, and developed frameworks.
+
+Moreover, I am actively engaged in what I term "informed educational innovation." This involves continuously updating educational programs to meet contemporary standards while addressing the diverse needs of students, such as ensuring inclusivity in assessments and classroom settings.
