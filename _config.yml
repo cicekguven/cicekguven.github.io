@@ -9,16 +9,6 @@ description: Assistant Professor, Department of Cognitive Science and Artificial
 #url: "https://cicekguven.github.io"  # Update this with your site URL
 
 
-buttons:
-      zip_url: http://example.com/
-      zip_title: Title
-      zip_hide: true
-      tar_url: http://example.com/
-      tar_title: Title
-      tar_hide: true
-      github_hide: true # hides "View on Github"
-
-
 
 # Navigation links
 nav_links:
