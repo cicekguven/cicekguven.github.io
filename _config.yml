@@ -9,7 +9,8 @@ description: Assistant Professor, Department of Cognitive Science and Artificial
 #url: "https://cicekguven.github.io"  # Update this with your site URL
 
 
-
+#= photo settings
+profile_photo: assets/profile-photo.png
 # Navigation links
 nav_links:
   - title: "Home"
