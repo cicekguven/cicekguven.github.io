@@ -10,7 +10,7 @@ description: Assistant Professor, Department of Cognitive Science and Artificial
 
 
 #= photo settings
-profile_photo:     https://cicekguven.github.io/assets/profile-photo.png
+profile_photo:     <img src="https://cicekguven.github.io/assets/profile-photo.png">
 # Navigation links
 nav_links:
   - title: "Home"
