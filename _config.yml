@@ -15,6 +15,8 @@ profile_photo:     <img src="https://cicekguven.github.io/assets/profile-photo.p
 nav_links:
   - title: "Home"
     url: /
+  - title: "news"
+    url: /news/
   - title: "projects"
     url: /projects/
   - title: "diversity and inclusion"
