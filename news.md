@@ -4,16 +4,18 @@ title: news
 permalink: /news/
 ---
 ## Upcoming events
+I will be presenting at the [France's International Conference on Complex Systems FRCCS 2025](https://iutdijon.u-bourgogne.fr/ccs-france/).
 
-I will be co-chairing the [diversity track](https://ictopen.nl/track-diversity-in-ict) in ICT open event in Utrecht on April 16. See the [program](https://ictopen.nl/programme-overview).
+[Aran: Age-restricted anonymized dataset of images and measurements of children](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/FWYPYC) dataset is released. we believe this will contribute to the research around learning body measurements of children from 2D images, having a lot of potential in healthcare applications. 
 
 I will be chairing the  Learning on Graphs session on June 12 in the [4'th AIM Cluster event](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/). Join us in Tilburg.
-
-I will be serving as a jury member in the Public defense of  Lisa Koutsoviti-Koumeri on Friday 25, at Hasselt University.
 
 We will be attending [NetSCi conference](https://netsci2025.github.io/) in the week of June 2-6 and  Valentina Sanchez Melchor will be presenting our work.
 
 ## Recent Past
+I  served as a jury member in the Public defense of  Lisa Koutsoviti-Koumeri on Friday 25, at Hasselt University.
+
+I co-chaired the [diversity track](https://ictopen.nl/track-diversity-in-ict) in ICT open event in Utrecht on April 16. See the [program](https://ictopen.nl/programme-overview).
 
 I was [interviewed](https://www.iomagazine.nl/IO_magazine_nr1_2025/index.html#1) for the I/O maganize about our paper [AI in support of diversity and Inclusion](https://arxiv.org/html/2501.09534v1).
 
