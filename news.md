@@ -6,7 +6,7 @@ permalink: /news/
 ## Upcoming events
 I will be presenting at the [France's International Conference on Complex Systems FRCCS 2025](https://iutdijon.u-bourgogne.fr/ccs-france/).
 
-[Aran: Age-restricted anonymized dataset of images and measurements of children](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/FWYPYC) dataset is released. we believe this will contribute to the research around learning body measurements of children from 2D images, having a lot of potential in healthcare applications. 
+[Aran: Age-restricted anonymized dataset of images and measurements of children](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/FWYPYC) dataset is released. We believe this will contribute to the research around learning body measurements of children from 2D images, having a lot of potential in healthcare applications. 
 
 I will be chairing the  Learning on Graphs session on June 12 in the [4'th AIM Cluster event](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/). Join us in Tilburg.
 
