@@ -6,12 +6,12 @@ permalink: /news/
 ## Upcoming events
 
 Our paper "Grid-Aware Spatio-Temporal Graph Neural Networks for Multi-Horizon Load Forecasting" is accepted to be presented at the 
-[The 14th DACH+ Conference on Energy Informatics](https://energy-informatics2025.org/).
+[The 14th DACH+ Conference on Energy Informatics](https://energy-informatics2025.org/). This is first Authored by Ugochukwu Orji, a PhD candidate I am supervising.
 
 Our paper titled "Determining graphlet explanations for machine learning on graphs" is accepted to be published in Plos Complex systems journal. This is first authored by Bettina Soos, who is a PhD candidate.
 
 ## Recent Past
-I am appointed as an Associate Professor in Tilburg University DEpartment of Cognitive Science and Artificial Intelligence as of August 1 2025.
+I am appointed as an Associate Professor in Tilburg University Department of Cognitive Science and Artificial Intelligence as of August 1 2025.
 
 I was be presenting at the [France's International Conference on Complex Systems FRCCS 2025](https://iutdijon.u-bourgogne.fr/ccs-france/).
 
