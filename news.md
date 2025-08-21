@@ -4,15 +4,23 @@ title: news
 permalink: /news/
 ---
 ## Upcoming events
-I will be presenting at the [France's International Conference on Complex Systems FRCCS 2025](https://iutdijon.u-bourgogne.fr/ccs-france/).
+
+Our paper "Grid-Aware Spatio-Temporal Graph Neural Networks for Multi-Horizon Load Forecasting" is accepted to be presented at the 
+[The 14th DACH+ Conference on Energy Informatics](https://energy-informatics2025.org/).
+
+Our paper titled "Determining graphlet explanations for machine learning on graphs" is accepted to be published in Plos Complex systems journal. This is first authored by Bettina Soos, who is a PhD candidate.
+
+## Recent Past
+I am appointed as an Associate Professor in Tilburg University DEpartment of Cognitive Science and Artificial Intelligence as of August 1 2025.
+
+I was be presenting at the [France's International Conference on Complex Systems FRCCS 2025](https://iutdijon.u-bourgogne.fr/ccs-france/).
 
 [Aran: Age-restricted anonymized dataset of images and measurements of children](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/FWYPYC) dataset is released. We believe this will contribute to the research around learning body measurements of children from 2D images, having a lot of potential in healthcare applications. 
 
-I will be chairing the  Learning on Graphs session on June 12 in the [4'th AIM Cluster event](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/). Join us in Tilburg.
+I  chaired the  Learning on Graphs session on June 12 in the [4'th AIM Cluster event](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/). Join us in Tilburg.
 
-We will be attending [NetSCi conference](https://netsci2025.github.io/) in the week of June 2-6 and  Valentina Sanchez Melchor will be presenting our work.
+We attended [NetSCi conference](https://netsci2025.github.io/) in the week of June 2-6 and  Valentina Sanchez Melchor will be presenting our work.
 
-## Recent Past
 I  served as a jury member in the Public defense of  Lisa Koutsoviti-Koumeri on Friday 25, at Hasselt University.
 
 I co-chaired the [diversity track](https://ictopen.nl/track-diversity-in-ict) in ICT open event in Utrecht on April 16. See the [program](https://ictopen.nl/programme-overview).
