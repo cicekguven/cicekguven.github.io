@@ -1,5 +1,5 @@
 ## About
-I am an assistant professor in the  [Cognitive Science and Artificial Intelligence department](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at Tilburg University. After my studies in the discrete algebra and geometry group of the department of Mathematics and Computer science in Eindhoven,  I defended my Ph.D. thesis in January 2012. That was about generalisations of a combinatorial theorem from Erdos, Ko and Rado over families of 
+I am an associate professor in the  [Cognitive Science and Artificial Intelligence department](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at Tilburg University. After my studies in the discrete algebra and geometry group of the department of Mathematics and Computer science in Eindhoven,  I defended my Ph.D. thesis in January 2012. That was about generalisations of a combinatorial theorem from Erdos, Ko and Rado over families of 
 intersecting sets. The thesis involved algebraic graph theory and combinatorics. For the following four years, I worked in the industry in banking and consultancy environments as a quant and a 
 data analyst, working with financial and trade data mainly. Then I returned to academia as a postdoc in the system architecture and network group at TUE in 2016. During my postdoc, I focused 
 on computational trust, machine learning and sensor data.
