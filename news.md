@@ -4,13 +4,13 @@ title: news
 permalink: /news/
 ---
 ## Upcoming/Recent events
-Hezha Mohammedkhan will [defend]{https://www.tilburguniversity.edu/current/events/phd-defense-hezha-mohammedkhan) her PhD on 23'th of March.
+Hezha Mohammedkhan will [defend](https://www.tilburguniversity.edu/current/events/phd-defense-hezha-mohammedkhan) her PhD on 23'th of March.
 
 As of January 2026, I am chairing the informatics board of [Lorentz center](https://www.lorentzcenter.nl/home.html).
 
 As of Fall 2025, I am co-chairing the [Equity Diversity and Inclusion working group of IPN](https://ict-research.nl/edi-wg/).
 
-We released the ILUSTRE Lab Consortium Visit report titled [Exploring Sustainable Water Management and Energy Transition In Curaçao[(https://research.tilburguniversity.edu/en/publications/exploring-sustainable-water-management-and-energy-transition-in-c/)
+We released the ILUSTRE Lab Consortium Visit report titled [Exploring Sustainable Water Management and Energy Transition In Curaçao](https://research.tilburguniversity.edu/en/publications/exploring-sustainable-water-management-and-energy-transition-in-c/)
 
 Our paper [Harnessing Firm Similarities with Graph Neural Networks for Superior Stock Predictions](https://link.springer.com/chapter/10.1007/978-3-031-82427-2_19) is published.
 
