@@ -4,6 +4,17 @@ title: RAI&GL
 permalink: /relationalAI_and_graphlearning_lab/
 ---
 
+## Our Website Is Under Development
+Thank you for your understanding as we continue to improve your experience.
+
+## Lab members:
+[Çiçek Güven](https://www.tilburguniversity.edu/staff/c-guven)
+[Valentina Sanchez Melchor](https://www.tilburguniversity.edu/staff/v-sanchezmelchor)
+[Bettina Soós](https://research.tilburguniversity.edu/en/persons/bettina-so%C3%B3s/)
+[Ugochukwu Orji](https://www.tilburguniversity.edu/staff/u-e-orji)
+[Mohammad Mohammadi](https://research.tilburguniversity.edu/en/persons/mohammad-mohammadi/)
+
+
 ## Relational Artificial Intelligence and Graph Learning lab
 Relational Artificial Intelligence and Graph Learning lab functions in the [Research Center of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at Tilburg University School of Humanities and Digital Sciences.
 
@@ -24,4 +35,5 @@ Explainable AI on graphs We develop model-agnostic explanation methods for machi
 
 We build knowledge graphs that connect information from different sources and develop methods that learn from sparse or incomplete data, a common situation in cultural heritage collections. This research is part of the large consortium project HAICU.
 Contact: c.guven@tilburguniversity.edu
+
 
