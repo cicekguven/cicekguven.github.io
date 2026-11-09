@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 ---
-## Upcoming Projects
+
 
 
 
@@ -31,6 +31,9 @@ The study addresses three key questions Projected Impact of Climate Variability:
 
 ## Resilient AI by Geometric Deep Learning
 in this project we focus on knowledge graphs and applications of Geometric Deep Learning for Resilient AI.
+
+
+## Upcoming Projects
 
 
 
