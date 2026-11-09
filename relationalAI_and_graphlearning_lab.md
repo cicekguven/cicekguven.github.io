@@ -5,9 +5,9 @@ permalink: /relationalAI_and_graphlearning_lab/
 ---
 
 
-Relational Artificial Intelligence and Graph Learning lab functions in the Research Center of Cognitive Science and Artificial Intelligence at Tilburg Univeristy School of Humanities and Digital Sciences.
+Relational Artificial Intelligence and Graph Learning lab functions in the Research Center of Cognitive Science and Artificial Intelligence at Tilburg University School of Humanities and Digital Sciences.
 
-Led by Dr. Çiçek Güven at Tilburg University, the Relational AI and Graph Learning cluster develops AI methods that learn from relational data and network structures.
+Led by Dr. Çiçek Güven at Tilburg University, the Relational AI and Graph Learning lab develops AI methods that learn from relational data and network structures.
 Our central question: how can modelling relationships and network structures improve AI’s ability to learn, reason and make predictions in order to solve real-world problems?
 We move beyond isolated observations to model the connections that shape complex systems. Our goal is to advance Relational AI: the ability of computational systems to represent, learn from and reason about interconnected information.
 Research themes & Methods
