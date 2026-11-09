@@ -9,7 +9,7 @@ permalink: /news/
 
 ##  Past
 
-Hezha Mohammedkhan  [defend](https://www.tilburguniversity.edu/current/events/phd-defense-hezha-mohammedkhan) defended her PhD on 23'th of March.
+Hezha Mohammedkhan  [defended](https://www.tilburguniversity.edu/current/events/phd-defense-hezha-mohammedkhan) her PhD on 23'th of March.
 
 As of January 2026, I am chairing the informatics board of [Lorentz center](https://www.lorentzcenter.nl/home.html).
 
