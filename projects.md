@@ -5,11 +5,13 @@ permalink: /projects/
 ---
 ## Upcoming Projects
 
-## Learning from Sparse Examples with graph learning approaches
 
-In this project, we aim to develop advanced machine-learning methods that can deal with sparse and possibly multimodal data. The sparsity may be in the limited number of instances available or in the limited number of labels available. This is in the context of the [HAICu project](https://www.haicu.science/). Within HAICu, Artificial Intelligence researchers and Digital Humanities researchers will co-develop a scientific solution to unfold the true potential of the current heterogeneous digital heritage collections and provide easier and reliable data access to citizens, journalists, civic organizations, and other societal users.
 
 ## Ongoing projects
+
+## Learning from Sparse Examples with graph learning approaches
+In this project, we aim to develop advanced machine-learning methods that can deal with sparse and possibly multimodal data. The sparsity may be in the limited number of instances available or in the limited number of labels available. This is in the context of the [HAICu project](https://www.haicu.science/). Within HAICu, Artificial Intelligence researchers and Digital Humanities researchers will co-develop a scientific solution to unfold the true potential of the current heterogeneous digital heritage collections and provide easier and reliable data access to citizens, journalists, civic organizations, and other societal users.
+
 
 ## [Virtual child growth monitor](https://www.tilburguniversity.edu/magazine/virtual-child-growth-monitor)
 Tilburg University's [Zero Hunger Lab](https://www.tilburguniversity.edu/research/institutes-and-research-groups/zero-hunger-lab) was tasked with developing an AI algorithm capable of measuring body parameters—such as height, circumference, and weight—from images. This algorithm can be integrated into the app to automatically detect malnutrition in children globally. (PhD candidate: Hezha Mohammedkhan)
