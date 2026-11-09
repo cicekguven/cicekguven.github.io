@@ -14,13 +14,13 @@ We move beyond isolated observations to model the connections that shape complex
 Research themes & Methods
 Our work combines graph neural networks, knowledge graphs, network analysis, graph theory, and explainable AI. We pair methodological advances with real-world applications, so that our AI systems are both scientifically rigorous and practically useful.
 
-###Infrastructure and energy networks
+### Infrastructure and energy networks
 We use graph learning to understand electricity grids and other complex infrastructure. Our methods reveal dependencies between network components, helping operators and planners support the transition to sustainable energy systems. (This work is part of the ILUSTRE lab within the ICAI ecosystem. Dr Güven is co-lead of the ILUSTRE project)
 
-###Brain networks
+### Brain networks
 We study how graph-based representations can characterize brain dynamics in functional MRI and other time-series data, and how patterns of connectivity relate to prediction tasks. The overarching goal of the interdisciplinary project is to understand the relationship between the brain and the poverty, to end generational poverty. See the ICON project webpage which facilitates this research in collaboration with Zero Poverty Lab
 Explainable AI on graphs We develop model-agnostic explanation methods for machine learning systems that process graph-structured data. These make predictions easier to interpret, so that users can understand and trust what a model has learned.
-###Knowledge graphs and digital cultural heritage
+### Knowledge graphs and digital cultural heritage
 
 We build knowledge graphs that connect information from different sources and develop methods that learn from sparse or incomplete data, a common situation in cultural heritage collections. This research is part of the large consortium project HAICU.
 Contact: c.guven@tilburguniversity.edu
