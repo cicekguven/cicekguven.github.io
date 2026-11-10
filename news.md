@@ -5,6 +5,18 @@ permalink: /news/
 ---
 ## Upcoming/Recent events
 
+I served as a jury member in the PDEng defense of Knarik Sahakyan (JADS) on 25 September 2026.
+
+Our paper "Probabilistic Residual Load Modelling with Spatio-Temporal Graph Neural Networks and Mondrian Conformal Calibration", first authored by Ugochukwu Orji, was presented at the [International Conference on Smart Energy Systems and Technologies (SEST) 2026](https://www.sest2026.com/).
+
+Our paper "A Grid-Aware Spatio-Temporal Framework for Probabilistic Load Forecasting with Mondrian Conformal Calibration" is accepted at [IEEE PES ISGT Europe 2026](https://ieee-isgt-europe.org/).
+
+Our paper "Set Classification with Probabilistic Learning Vector Quantization on the Grassmann Manifold" is accepted at [IJCNN 2026](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/).
+
+I was a member of the poster and demo jury of [NWO ICT.OPEN 2026](https://ictopen.nl/) and of the poster jury of [Alice & Eve 2026](https://alice-and-eve.github.io/2026/).
+
+I served as a jury member in the PDEng defense of Yue Pan (JADS) on 31 March 2026.
+
 
 
 ##  Past
@@ -14,6 +26,8 @@ Hezha Mohammedkhan  [defended](https://www.tilburguniversity.edu/current/events/
 As of January 2026, I am chairing the informatics board of [Lorentz center](https://www.lorentzcenter.nl/home.html).
 
 As of Fall 2025, I am co-chairing the [Equity Diversity and Inclusion working group of IPN](https://ict-research.nl/edi-wg/).
+
+I was a member of the jury for the ROBUST (LTP) awards, the Interdisciplinary Research Award and the Lab Collaboration Award, presented at ICAI day 2025.
 
 We released the ILUSTRE Lab Consortium Visit report titled [Exploring Sustainable Water Management and Energy Transition In Curaçao](https://research.tilburguniversity.edu/en/publications/exploring-sustainable-water-management-and-energy-transition-in-c/)
 
