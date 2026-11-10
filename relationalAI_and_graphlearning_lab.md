@@ -4,15 +4,15 @@ title: RAI&GL
 permalink: /relationalAI_and_graphlearning_lab/
 ---
 
-## Our Website Is Under Development
-Thank you for your understanding as we continue to improve your experience.
+## Our Website Is Under Development!
+
 
 ## Lab members:
-[Çiçek Güven](https://www.tilburguniversity.edu/staff/c-guven)
-[Valentina Sanchez Melchor](https://www.tilburguniversity.edu/staff/v-sanchezmelchor)
-[Bettina Soós](https://research.tilburguniversity.edu/en/persons/bettina-so%C3%B3s/)
-[Ugochukwu Orji](https://www.tilburguniversity.edu/staff/u-e-orji)
-[Mohammad Mohammadi](https://research.tilburguniversity.edu/en/persons/mohammad-mohammadi/)
+[Çiçek Güven](https://www.tilburguniversity.edu/staff/c-guven)\\
+[Valentina Sanchez Melchor](https://www.tilburguniversity.edu/staff/v-sanchezmelchor)\\
+[Bettina Soós](https://research.tilburguniversity.edu/en/persons/bettina-so%C3%B3s/)\\
+[Ugochukwu Orji](https://www.tilburguniversity.edu/staff/u-e-orji)\\
+[Mohammad Mohammadi](https://research.tilburguniversity.edu/en/persons/mohammad-mohammadi/)\\
 
 
 ## Relational Artificial Intelligence and Graph Learning lab
