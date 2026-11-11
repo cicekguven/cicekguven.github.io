@@ -10,7 +10,7 @@ My research is about network analysis and learning on graph-structured data. I s
 ### Projects with a social aim
 
 Data science projects with a social aspect motivate me. Several of my projects use AI to create a more inclusive and accessible world:
-- **Ilustre** (ICAI lab): sustainable water management and energy transition in Curaçao.
+- **Ilustre** (ICAI lab): sustainable water management and energy transition in the CAribbean Region.
 - **ICON project** (Zero Poverty Lab): linking brain networks and poverty.
 - **Child Growth Monitor** (Zero Hunger Lab): detecting malnutrition in children from images.
 
